@@ -7,8 +7,12 @@ import torch
 from sklearn import metrics
 from tqdm import tqdm
 
-from backbones.CurricularFace.curr_resnet import curr_iresnet100
-from backbones.ElasticArcface.iresnet import iresnet100
+#from backbones.CurricularFace.curr_resnet import curr_iresnet100
+#from backbones.ElasticArcface.iresnet import iresnet100
+
+import sys 
+sys.path.append('../ElasticFace')
+from backbones.iresnet import iresnet34, iresnet50
 from evaluation.utils import compute_eer
 
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
@@ -82,6 +86,10 @@ def get_model(path_model, modelname):
         backbone = iresnet100(num_features=512).to(device)
     elif modelname == 'CurricularFace':
         backbone = curr_iresnet100().to(device)
+    elif modelname == 'Elastic34':
+        backbone = iresnet34().to(device)
+    elif modelname == 'Elastic50':
+        backbone = iresnet50().to(device)
     
     backbone.load_state_dict(torch.load(path_model, map_location=device))
     return backbone
@@ -101,7 +109,7 @@ def get_pairs_genimp():
     """Returns image pair and genuine/imposter indication lists."""
     pairs = []
     g_i = []
-    with open('./dataset/lfw_pair.txt') as f:
+    with open('./dataset/Indian_pairs_sample.txt') as f:
         for line in f:
             elems = line.split(" ")
             pairs.append(np.array([int(elems[0].split(".")[0]) - 1,

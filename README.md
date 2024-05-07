@@ -17,6 +17,9 @@ NOTE: The original codes are implemented on a private codebase and will not be r
 2. Add backbone files into *./backbones*
 3. Install environment
 ```commandline
+
+conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 -c pytorch
+conda install opencv==4.6.0
 pip install -r requirements.txt
 ```
 

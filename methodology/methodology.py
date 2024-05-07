@@ -1,6 +1,5 @@
 import os
 import numpy as np
-
 from tqdm import tqdm
 
 import utils_os
@@ -11,15 +10,15 @@ from methodology.plot_gradient import plot_gradient_2
 
 ###############################################################
 # Specify model and datapaths
-MODELNAME = 'CurricularFace'  # 
-MODEL_PATH = "./models/CurricularFace_Backbone.pth"  # 
+MODELNAME = 'Elastic34'  # 
+MODEL_PATH = "./models/253682backbone.pth"  # 
 PATCHED_IMGS = False  # True, if PatchLFW is used
-SRC_PATH_GRAD = "./dataset/ds_lfw_mag_mtcnn/"  # "./dataset/ds_lfw_mag_mtcnn/"  './patches/PatchLFW'
+SRC_PATH_GRAD = "D:/Work/Datasets/RFW/test_aligned/data/African"  # "./dataset/ds_lfw_mag_mtcnn/"  './patches/PatchLFW'
 
 dataset = 'patch' if PATCHED_IMGS else 'ds_lfw_mag_mtcnn'
 ###############################################################
 
-SRC_PATH_THR = f"./dataset/{dataset}/"
+SRC_PATH_THR = "D:/Work/Datasets/RFW/test_aligned/data/African"
 DEST_PATH_COS = f'./methology/cos_sim/{dataset}'
 DEST_PATH_THR = f'./methology/cos_sim/ds_lfw_mag_mtcnn/{MODELNAME}_thr.npy'
 DEST_PATH_GRAD = f"./methology/gradient/{MODELNAME}/{dataset}/"
@@ -71,6 +70,7 @@ def compute_threshold():
 
     print('Load Images')
     imgs = utils_os.load_all_images(utils_os.image_iter(SRC_PATH_THR))
+    print(imgs.shape())
     all_pairs, gen_imp = utils_os.get_pairs_genimp()
 
     print('Compute Cosine Similarities')

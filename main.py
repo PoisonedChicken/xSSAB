@@ -17,7 +17,7 @@ def methodology_main():
     print('modelname:', methodology.MODELNAME)
     methodology.compute_threshold()
     methodology.compute_gradients()
-    methodology.plot_gradient_2("./dataset/ds_lfw_mag_mtcnn/1.jpg", "./dataset/ds_lfw_mag_mtcnn/0.jpg",
+    methodology.plot_gradient_2("D:/Work/Datasets/African_RFW/1.jpg", "D:/Work/Datasets/African_RFW/0.jpg",
                               os.path.join(DEST_PATH_GRAD, '1_0_gradient_pos.npy'),
                               os.path.join(DEST_PATH_GRAD, '1_0_gradient_neg.npy'),
                               DEST_PATH_GRAD_PLOT, 0

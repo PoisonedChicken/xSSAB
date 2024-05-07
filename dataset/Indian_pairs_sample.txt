@@ -1,0 +1,600 @@
+m.04ld_9f	1	3
+m.02qv6d7	2	1
+m.0j9ncvv	3	1
+m.034kdq	1	2
+m.04qp06	1	4
+m.027_h31	2	3
+m.02x68cc	2	3
+m.0gh7lg	1	3
+m.0g55wt_	3	4
+m.048kx5	3	1
+m.06dddx	1	2
+m.03c3s9r	2	1
+m.0k92dgs	1	4
+m.03c73yc	1	2
+m.09gds74	3	1
+m.05b9z_	2	3
+m.073rkm	3	1
+m.0g3ls	2	1
+m.0395rt	2	1
+m.0ch4449	2	3
+m.02v_5tq	1	2
+m.041w6b	2	4
+m.0grnll	2	3
+m.026t24t	2	1
+m.0cqyvd	2	1
+m.04dwwp	3	2
+m.0h533t	1	2
+m.0hn8sn1	2	1
+m.02r8mrt	2	3
+m.0bjtyg	1	2
+m.02qvhbb	3	1
+m.0c2nsp	1	2
+m.0b75dff	5	4
+m.026r_m7	3	1
+m.03h4780	3	2
+m.047g4s0	1	2
+m.04j0s3	2	3
+m.03sl3x	1	3
+m.0ks_18	4	1
+m.0cw9jh	5	1
+m.05zx08f	4	2
+m.03b1p5	1	3
+m.0hh5x0x	4	1
+m.02z44b0	1	3
+m.02q9_x2	2	1
+m.02ry1s	2	3
+m.0b8zqd	3	2
+m.0gy1rgg	3	2
+m.0gbwwl_	2	4
+m.03qhpf2	1	2
+m.0ch1zb	2	3
+m.0fp_g6l	1	3
+m.0cty0	1	2
+m.02x9x4q	2	3
+m.0gkyzsk	2	3
+m.03gqlbz	2	1
+m.05c27_m	1	3
+m.0gbzfmq	2	3
+m.01qkkq	2	3
+m.09g6nzh	3	2
+m.0l8gf_z	2	1
+m.063__89	2	1
+m.09vr3_	1	4
+m.0hn9fq0	2	4
+m.02w3pxp	1	3
+m.0gc42cw	1	2
+m.027vnys	2	1
+m.03hnvsn	3	2
+m.0k0wftj	2	1
+m.0jfgrjr	4	3
+m.07s944r	1	4
+m.0cdfl	1	2
+m.04lf_8t	2	3
+m.03m3nzf	1	2
+m.0qfr7xm	1	2
+m.0ff6p1	3	4
+m.018fkc	2	3
+m.0r4qlrw	2	4
+m.0bbxlkv	1	4
+m.0h65_rj	1	2
+m.03fnlq	2	3
+m.0nhj8xl	3	2
+m.0b8zyp	1	2
+m.05f3bvm	4	3
+m.05p6bss	1	2
+m.02qnk5c	3	1
+m.04crh35	3	2
+m.05zm76x	1	3
+m.0973_r	2	3
+m.0ll2cj0	1	3
+m.0cv7_0	3	4
+m.09gpv2v	2	1
+m.09ttlc	2	1
+m.04bqt3	1	3
+m.0h7h0j	3	4
+m.0dm652	3	4
+m.0ds7pr5	1	2
+m.0n9mlyj	2	3
+m.04ghpkw	2	3
+m.0djky5	3	2
+m.01vgdrr	2	1
+m.04ygtw6	2	3
+m.0hmv1l8	1	2
+m.07_ckm	2	1
+m.0glsp24	3	1
+m.0bmf76t	2	1
+m.025pnd	2	4
+m.08b0jk	2	1
+m.0klz4w9	1	2
+m.09xymj	3	2
+m.0r8l061	2	3
+m.02w30jg	5	4
+m.02685xh	4	3
+m.02rv9s	1	2
+m.0dd4jy	3	1
+m.0bk56n	3	5
+m.02z0vr3	2	3
+m.025sryb	2	1
+m.0gc2lz2	4	1
+m.026yfz_	1	2
+m.04zy07k	3	2
+m.0k3p77z	2	1
+m.05b4v65	3	4
+m.0dfjb8	2	1
+m.05c19t5	2	1
+m.0278gv2	3	2
+m.06xcd_	2	3
+m.0bwg44r	2	4
+m.0bznbj	3	4
+m.027lfrs	3	2
+m.08dy0k	1	4
+m.026zcm5	1	2
+m.0gnls2	5	3
+m.027r3yk	2	1
+m.02852vp	2	4
+m.0288crq	2	1
+m.04n268h	2	4
+m.0cp15kd	2	1
+m.02rr042	1	3
+m.064m059	1	3
+m.0282l1k	1	2
+m.0fkt5m	2	1
+m.047f23v	3	1
+m.0c7wt7	2	4
+m.0h7r8qz	2	3
+m.0jt455v	3	2
+m.02qd2vx	3	1
+m.03ct0gd	1	2
+m.0h3vyzy	1	3
+m.0271zv7	2	3
+m.03gqtrh	4	2
+m.0j8dp8d	2	3
+m.0b1gyh	1	4
+m.04gngvm	1	2
+m.0k3myvz	3	6
+m.0f4b09	1	2
+m.09bybb	1	2
+m.027b8b	3	5
+m.08hhm6	4	2
+m.05zkm68	3	4
+m.05zkgtz	2	1
+m.0gttr1s	3	5
+m.0pdbqkb	2	1
+m.083cgg	3	2
+m.0g6m_k	5	6
+m.0f94nz	3	2
+m.0g9xq58	1	2
+m.06zp8lh	1	3
+m.08lj5b	1	2
+m.02s6mz	1	2
+m.0bxc70	5	7
+m.02rgb7_	4	2
+m.047thq6	3	2
+m.09v7n0f	3	5
+m.0283qpc	1	2
+m.028hpk	3	4
+m.05w6fq	1	2
+m.047nkxw	2	1
+m.0gk_7m9	3	1
+m.07s4bvt	1	4
+m.05f5dtv	1	5
+m.03c3w2r	2	1
+m.0h51scf	1	2
+m.0274j4z	1	2
+m.04n0tj7	1	2
+m.08jn6t	2	3
+m.02672dp	1	2
+m.04q699	2	4
+m.073d8l	2	1
+m.02lqby	1	3
+m.05jmhg	1	4
+m.03hkp94	2	4
+m.0gc2zgn	3	1
+m.0f8_tg	1	2
+m.0dwzj3	1	3
+m.024hlv	3	1
+m.0fq31yq	3	2
+m.09v62tw	4	3
+m.0cdy96	3	1
+m.0h96nq3	1	3
+m.0cbnpp	3	1
+m.08zncx	2	3
+m.0h951yp	3	1
+m.026vh5d	2	5
+m.08hr72	1	3
+m.0n5v8cn	2	1
+m.027xqn8	1	2
+m.0gfvtw	1	3
+m.0b6jsqs	3	2
+m.0276w0t	3	2
+m.0gkzc4n	3	2
+m.0b6fwwm	1	2
+m.0b7zz5	2	1
+m.05s_wsx	2	1
+m.0bhb4xx	1	2
+m.01rsdq	1	3
+m.0j3d70t	4	5
+m.0270fn6	1	2
+m.03cn1r7	3	1
+m.0k12z7	1	4
+m.0412544	1	4
+m.0hncqt4	1	3
+m.03cckyg	2	1
+m.09v6lxs	4	1
+m.0j6jy2z	3	2
+m.0ch5rd5	3	2
+m.03c91hx	4	1
+m.09gh063	1	3
+m.0btrvt	1	3
+m.0h302t	5	1
+m.048srr	3	2
+m.0ch5k_g	3	4
+m.0ck7vfw	2	1
+m.0261dzm	1	2
+m.0h6rvc	2	4
+m.01k9lrv	4	3
+m.05m_ksf	3	2
+m.02q_xxh	3	1
+m.067sg7	2	3
+m.0j7l1r9	3	1
+m.0bx_4z3	3	2
+m.0ff_yg	3	2
+m.05c3qxg	5	1
+m.026grpg	1	3
+m.0h690j1	2	1
+m.02qd9n8	2	4
+m.05p58js	2	1
+m.05p3pzg	3	1
+m.0315m4	1	3
+m.02r8nrf	3	2
+m.02w6m2	3	4
+m.03mgjfb	2	3
+m.01lhb9	3	2
+m.0sgg_cr	2	3
+m.0gty9zy	3	2
+m.0cvyx3	2	1
+m.0bkmcp	3	4
+m.0bccg_	2	1
+m.06r1gc	4	1
+m.0h55jc3	2	1
+m.03wgz7q	3	2
+m.03hz1n	3	1
+m.0kbddfs	1	2
+m.0927fr	3	1
+m.03hnrn3	3	2
+m.04g5nr	1	2
+m.01w7n71	2	1
+m.0593ll	3	1
+m.0j7k1yt	1	3
+m.04hpg7	2	3
+m.0p8vqk3	3	2
+m.01vd4rn	4	5
+m.0qkx4l7	3	2
+m.06y_92	5	3
+m.026_007	1	3
+m.09pdyq	3	1
+m.060msm	2	3
+m.07k4n_	2	1
+m.0270c2_	1	2
+m.0gggyl5	1	3
+m.0bmj16	4	1
+m.059md3	2	1
+m.02vwkj_	1	3
+m.02xfrd	1	2
+m.086zzh	1	2
+m.08kp57	1	5
+m.04q0vwz	2	3
+m.02ppgk7	2	1
+m.0gfd4fq	2	1
+m.0br_0hp	1	3
+m.0f49w4	1	3
+m.02r7wqd	2	3
+m.0k_pgn	3	4
+m.0pc3ftx	2	1
+m.0329yv	1	3
+m.0c66n0	3	2
+m.0c1lxn	1	3
+m.0hnbj9t	2	1
+m.0t4tl83	2	1
+m.0288m_h	2	4
+m.08hsy_	3	m.02nrz2	4
+m.05q7wpp	4	m.06mf2m	1
+m.02vy1v1	1	m.0833bt	3
+m.0g59mvz	1	m.0n8zrdr	3
+m.02w6m2	1	m.02rv9s	4
+m.089qxv	1	m.0jflk	3
+m.04f4g57	5	m.0537mz2	5
+m.02xkc4	2	m.0ksb_2	4
+m.0261yk1	2	m.05xdjl	1
+m.0cfym4	1	m.03clb04	4
+m.03m2fg	3	m.0kst6p	4
+m.02qj6bs	3	m.0byffn	1
+m.026pv5q	2	m.0gxf0hs	4
+m.02w2_m6	5	m.0bdhqs	2
+m.0gb_yjt	5	m.08t7wl	1
+m.03zdvt	3	m.0frcdw	1
+m.01qhc8	4	m.02w4tlx	4
+m.03w3mt	1	m.08nv6s	1
+m.0674cw	1	m.05b1219	1
+m.03zd_s	3	m.051v__g	3
+m.05b159y	3	m.0fd4_g	2
+m.0bjtyg	3	m.04vxf3	1
+m.0d8cr0	2	m.026nlpv	2
+m.02799kb	2	m.01gwl2	3
+m.064k68_	2	m.0k3lbzy	3
+m.04zwksb	2	m.047qmvx	4
+m.074jss	1	m.0h4svr	3
+m.06vsvl	1	m.09sphm	2
+m.0269z78	4	m.0284nlj	4
+m.04f5d4c	4	m.0h7n49r	4
+m.07f49g	1	m.01mzgn2	1
+m.0bbxlkv	2	m.02qj8qd	4
+m.0h1myb	4	m.0pdnxy7	2
+m.02qfs7p	4	m.05ynxfv	5
+m.0ccn56	4	m.04gshl	3
+m.0h7051w	3	m.0278gv2	2
+m.09gk4wd	1	m.0cpnt7	2
+m.03c169c	1	m.0872hg	2
+m.0gy3f	2	m.049hbg	4
+m.050n06	2	m.0h1fq3_	2
+m.06zj_ms	2	m.0m0q41d	2
+m.07v2lm	1	m.0s8zt03	1
+m.0qs6	4	m.01q8wk7	2
+m.06zp02	4	m.0526_k	1
+m.01bwpz	3	m.080g_c3	5
+m.04cyz2z	1	m.09np6z	1
+m.0rfcptj	1	m.0cdsr_	1
+m.04g137x	2	m.02r30xh	1
+m.0gcsc4	2	m.02qhvbv	3
+m.0g9z2lk	2	m.03cn3nx	2
+m.0dlky7k	2	m.025pnd	3
+m.01fphj	1	m.09gn6xz	4
+m.05m_ksf	1	m.0270fn6	4
+m.04w8y4	3	m.0138r2	3
+m.03m3nzf	4	m.04n0k5v	6
+m.05b5fqc	3	m.05f5dtv	3
+m.0hzrn7d	3	m.05c3qxg	3
+m.09qy7x	1	m.05szmb6	3
+m.08wgj9	1	m.02q_47r	1
+m.04gq5mw	2	m.064q1pj	3
+m.0hrby8f	3	m.05zvn75	1
+m.08fdqv	4	m.03cd1_x	3
+m.05syl08	4	m.02dh5d	1
+m.0j45w06	1	m.05c2nlk	3
+m.07rp7y	2	m.0n52p_l	4
+m.0jt1ty5	3	m.07_mtj	1
+m.0b781h6	2	m.0ggw8w	2
+m.04cv0ph	2	m.02x5_fh	4
+m.01myfs1	1	m.0grnll	4
+m.028z39	2	m.02r2zg3	3
+m.02qq_ww	3	m.0239zv	4
+m.0cdsr_	4	m.0239zv	2
+m.09ht9c	3	m.04m2xg	4
+m.07s6vhc	2	m.04gpr5w	1
+m.0hzmw63	1	m.0kvfq2z	2
+m.04xgkp	3	m.06jdb3	1
+m.02rztxq	3	m.0807d6k	3
+m.067r06	2	m.05m_1nb	5
+m.02vq96m	1	m.01vqsx4	2
+m.0c96fs	2	m.047mzv	1
+m.026l137	3	m.0btrvt	2
+m.0b1gyh	3	m.07ty80	2
+m.03wftq3	1	m.04jfczz	2
+m.0n5w7rc	5	m.0nbv4f6	2
+m.0j8dp8d	1	m.0bbv304	3
+m.0czryc	1	m.0gcg76k	1
+m.027q7ss	2	m.0fq06w5	2
+m.06q2bt	3	m.0krq7c	4
+m.06b1jg	1	m.0573tj8	2
+m.02y_snv	2	m.09v7n0f	1
+m.03ckf78	1	m.0j26v15	1
+m.0ddc2gb	1	m.025yyhq	5
+m.01vlf0v	2	m.026vqz1	1
+m.043rt56	3	m.0cld6t	1
+m.0d_7dt	2	m.09gj_rj	5
+m.02pp77c	1	m.04645zm	1
+m.03wf24f	5	m.03cbw6f	5
+m.04mzw77	3	m.0bmjl2q	1
+m.0gc20zt	1	m.0dt7lz	5
+m.0ndwm2h	2	m.0gc7wl1	3
+m.0g4243	3	m.0dnvqx	2
+m.09gj_rj	1	m.02qgdcb	4
+m.06414fs	1	m.0cqkc7	5
+m.0b66qd	1	m.027b8b	2
+m.0bxzkl	4	m.047lrkg	4
+m.0k28ny5	2	m.0gg5sfr	4
+m.03sl3x	2	m.0gdk5_9	3
+m.0dgsv24	4	m.076ymtg	1
+m.0h7qzf6	1	m.025zr2r	2
+m.0b6hjvj	3	m.0gbwwl_	3
+m.0j9ncvv	2	m.0dlm6x0	5
+m.0jt5dw	1	m.0c2w5c	1
+m.0n8_65_	3	m.02rxjrz	1
+m.063_p4n	2	m.04f5d4c	4
+m.0ch5k_g	2	m.01rywq3	2
+m.02r9wzg	5	m.027jh2_	2
+m.08zmrr	3	m.0dgsv0	3
+m.05kgfk	2	m.05t0fwn	5
+m.0jtmb7	2	m.0g5nr1	5
+m.075r_k	3	m.03gqt7p	2
+m.04gv1tt	1	m.0cb5vm	3
+m.0gkxvng	2	m.0r4mqzd	1
+m.0522m5h	4	m.04gpy_g	3
+m.0bhc551	3	m.01h_yd	2
+m.0gpw5f	1	m.0h3td9n	2
+m.03fnlq	1	m.03c_ng9	1
+m.0bkg87	1	m.06jdb3	4
+m.0q57sjr	3	m.0hh41q_	1
+m.0270bv0	1	m.0c7nkn	3
+m.05b9z_	1	m.01bwpz	1
+m.02r8nrf	1	m.026p3wd	3
+m.0bwjs87	5	m.04gv1tt	3
+m.0gbx9ms	1	m.0bmj16	2
+m.0g15zv	6	m.0hnbj9t	3
+m.04jfczz	4	m.0hlpmtj	3
+m.0279107	2	m.02qnywq	4
+m.08h94l	4	m.0jfgrjr	3
+m.018fkc	3	m.08h94l	3
+m.01wtszb	4	m.04cyz2z	3
+m.05mzg5y	1	m.05p9t9q	3
+m.05zm76x	4	m.0b0fbz	2
+m.02tq2r	1	m.02vyk_k	2
+m.0k9bjtn	3	m.02plz65	3
+m.05mgpn	1	m.03vrnh	1
+m.04lf_8t	1	m.07scchw	3
+m.06_s3f	2	m.05p0q_h	2
+m.01w7n7b	3	m.025y36r	3
+m.01px2qk	2	m.04y8rc_	5
+m.03gv23r	2	m.0gh7fk	2
+m.0c3_5zr	4	m.05p0q_h	1
+m.05zz_8_	2	m.0bhbr1q	3
+m.01241v	2	m.05yvfd	3
+m.02gv6z	2	m.0894j4	1
+m.0gtvq06	3	m.0bmf557	3
+m.0czbv_w	5	m.03c422w	4
+m.0hzr6cv	1	m.02ptxhn	1
+m.064f6m	2	m.02rv9s	3
+m.0gfdvnv	3	m.0cl4qv	5
+m.02qv6d7	3	m.04qbqqp	2
+m.04yf6k4	3	m.06n7sx	3
+m.04nl89b	1	m.0cp4n7	2
+m.0j62p5k	2	m.0bdjh7	3
+m.03xnq_1	3	m.0cc73gt	2
+m.0gdvxg	3	m.06b9wf	3
+m.0cr6dz6	2	m.06b9wf	5
+m.01rryw	1	m.0444n4	2
+m.0dhqyw	2	m.02st41	2
+m.049hbg	1	m.0h06p_	2
+m.0jsnl8	4	m.090gpr	4
+m.0gyv__4	3	m.03cttyq	4
+m.0j43zh5	3	m.02y_f81	4
+m.04gmrh1	2	m.098f45	4
+m.0hhps2q	3	m.0283s7y	1
+m.03csn8r	3	m.0282l1k	3
+m.0f1w3r	1	m.0265z9l	1
+m.0jwwdq1	1	m.02ww09s	5
+m.0265z9l	3	m.04n24yj	3
+m.03c91hx	2	m.03nrmr3	1
+m.0dv47r	2	m.0h_c_qx	4
+m.02rxjrz	4	m.0522m32	4
+m.04ygybk	3	m.061zc_	3
+m.025pnd	2	m.03h4g94	1
+m.087g9h	3	m.0b75dff	3
+m.09j5mr	2	m.01p4n57	5
+m.06gzx6	1	m.018fkc	1
+m.03d5stb	2	m.04n5gr3	2
+m.04g1gty	5	m.08hsy_	1
+m.03h4gg9	4	m.0jyhvz	2
+m.03kgyg	1	m.0flgd4	2
+m.0hr105c	2	m.02vyk_k	4
+m.0kg00hx	4	m.026ttbb	1
+m.084fls	1	m.0h7h0j	2
+m.04q9vbh	4	m.0dr0lf	1
+m.0cd6_9	1	m.06w62z5	2
+m.03h0bdk	1	m.02qfs7p	2
+m.0hhrq9d	1	m.026vqz1	1
+m.02qcrwm	3	m.0h1dttg	1
+m.043r5tm	1	m.0h19lp	1
+m.027gqlw	3	m.08hhm6	3
+m.0bflyr3	1	m.080k3nb	3
+m.0cdb55	1	m.023fm7	1
+m.0bxc70	7	m.025yyhq	2
+m.01m538j	2	m.09nc76	2
+m.0gg60_t	1	m.05zjlfp	1
+m.09np6z	3	m.04y9fz2	4
+m.02qh5t5	4	m.04q699	1
+m.07s3j8p	1	m.056g_3	1
+m.0h302t	4	m.0dlky7k	1
+m.02xfrd	1	m.05m_1nb	4
+m.02r74r9	3	m.0c3ytks	4
+m.026p3wd	4	m.0cmlvs0	2
+m.0gznys	4	m.03hz1n	4
+m.0526_k	5	m.04kfg7	1
+m.04n3y_z	3	m.02r7vfs	3
+m.04jcjlt	1	m.0c6876	1
+m.0qzgxpk	1	m.0jl1vrt	3
+m.09k62cz	1	m.06402gb	2
+m.0h1sgs	4	m.0ddcnz4	4
+m.0h79_t	3	m.0gtvvbn	4
+m.05dz7n	1	m.05y2fd	2
+m.02xb5bq	1	m.0c3q57	1
+m.0bh7lyh	1	m.01h1r7	4
+m.02ptxhn	3	m.0c98nf	1
+m.0hn9fq0	3	m.0bchj6	2
+m.025wgbm	3	m.09gkxg6	5
+m.026k1l3	4	m.0ks_18	3
+m.0g548mw	1	m.029t5l	1
+m.05p58js	1	m.05qtcv	2
+m.0cvyx3	1	m.03c6m4w	4
+m.05q9g1	1	m.04n6t55	5
+m.02703x7	3	m.0ksxw7	4
+m.03c73yc	3	m.020nvl	2
+m.09qtd3	1	m.05ng74	2
+m.0q2y9_v	1	m.08rccv	2
+m.063zhv8	6	m.07hpqm	4
+m.06clg2	2	m.0gr9gr	3
+m.01lzzzf	3	m.06z9s_	5
+m.0f2sq9	2	m.04pqss	2
+m.08_297	3	m.01gwlg	2
+m.02r4lrc	3	m.0hh0xt8	4
+m.01px9lm	2	m.0g3ls	1
+m.01wtnrb	6	m.09v1dsk	5
+m.0ch4449	1	m.0cmlvs0	4
+m.04gjm3v	4	m.01vd4rn	1
+m.0cp15kd	3	m.02r5rzs	3
+m.0bvls5	1	m.0273q5l	2
+m.02rcrb9	2	m.0b_j_n	2
+m.0hr1nf_	1	m.08z_kd	4
+m.02pzvg2	2	m.04jw71	2
+m.0b6033	2	m.04bqt3	3
+m.0gty9zy	4	m.0g5ltp2	4
+m.03xlm	3	m.03yht5f	2
+m.0cm8xm0	1	m.0czbv_w	2
+m.09376f	2	m.03qk3pv	2
+m.04zy07k	1	m.04yf6k4	1
+m.0fb_fx	2	m.01j6jv	2
+m.0cmd7dw	3	m.0j2b6c3	1
+m.04lhtbp	1	m.04q793_	1
+m.0h0650	2	m.0fv6th	3
+m.0jxbk4	1	m.04zvnny	4
+m.0gvv9lc	3	m.01gwl2	3
+m.0397gp	1	m.0djncn	3
+m.0ccsjs	1	m.01gfzf	3
+m.02q91dd	2	m.0hh0xt8	4
+m.02wzxhj	3	m.04bqt3	4
+m.0gq0jd	5	m.044pqn	3
+m.0d27_8	1	m.0dm652	1
+m.0krw7p	3	m.025y56d	1
+m.02740jf	1	m.04y9fz2	3
+m.0b8zqd	1	m.027pp_6	1
+m.0bs7ww1	3	m.02w4tlx	5
+m.0k3nxf7	1	m.02gbb7	1
+m.0g7dxw	1	m.05k3hy	1
+m.05b0w2j	3	m.0gg5sfr	5
+m.0271zv7	4	m.090gpr	1
+m.08rk4q	2	m.0dt7lz	4
+m.0gfvtw	2	m.047t4vq	4
+m.07f4tm	3	m.09gchgb	3
+m.0cd9f	1	m.069rff	4
+m.0gc6ksd	1	m.0b6h1nn	3
+m.03wf6kb	1	m.08g5y5	2
+m.026t24t	3	m.02r2z3g	1
+m.080pgp6	1	m.0n49g1g	3
+m.0486gk	3	m.07wgyy	1
+m.0cc58h7	1	m.0h51yj5	3
+m.0b55n2	1	m.04pr26	1
+m.04kfg7	4	m.0dnjf_	4
+m.0h7p_20	2	m.0cv7_0	2
+m.071xj	2	m.0jt5jg	3
+m.0812j8	2	m.06rlsr	1
+m.04jk7q4	1	m.01lmws4	1
+m.031wdb	1	m.07jmgz	3
+m.0d8g_f	2	m.0gbztt_	3
+m.0cw9jh	2	m.02gbb7	1
+m.0r3scj3	2	m.0f2hjq	1
+m.0jqb2rf	2	m.06b1jg	2
+m.02qnj9h	4	m.0n9mlyj	1
+m.02pshbm	3	m.03gzpz2	3
+m.0klz4w9	3	m.0q3_z3x	2
+m.02r5rzs	4	m.06w5lxy	3

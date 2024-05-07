@@ -12,7 +12,7 @@ device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
 def get_embedding(img, model, model_name):
     """Compute embedding for img with model"""
-    img = utils_os.transform_img(img)
+    #img = utils_os.transform_img(img)
     if model_name == 'CurricularFace':
         _embedding = model(img)[0]
     else:   # self.name in ['ElasticArcface', 'ElasticCosface']:
@@ -24,8 +24,8 @@ def get_embedding(img, model, model_name):
 def get_cosine(img_1, img_2, model, model_emb, version, model_name, thr):
     """Compute cosine similarity of img_1 and img_2 with possibility to hide positive/negative features."""
     # get current embedding
-    emb_1, _ = get_embedding(img_1, model_emb, model_name)
-    emb_2, _ = get_embedding(img_2, model_emb, model_name)
+    emb_1 = model_emb(img_1.clone())
+    emb_2 = model_emb(img_2.clone())
 
     # normalize embedding
     emb_1 = nn.functional.normalize(emb_1, p=2.0, dim=1)
@@ -49,18 +49,24 @@ def get_cosine(img_1, img_2, model, model_emb, version, model_name, thr):
         weights = weights.to(device)
         model.cosine_layer.weight = nn.Parameter(weights)
 
-    img = utils_os.transform_img(img_1)
-    cos = model.forward(img)
-    return cos, img
+    #img = utils_os.transform_img(img_1)
+    cos = model(img_1.clone())
+    return cos, img_1
 
 
 def get_gradient(img1, img2, model, model_emb, version, model_name, thr):
     """Compute gradient of img1 in model."""
     cos, root_1 = get_cosine(img1, img2, model, model_emb, version, model_name, thr)
+    cos.retain_grad()
+    root_1.retain_grad()
 
     feature = cos.squeeze()
+
+
     feature.backward(retain_graph=True)
+
     feature_gradients = root_1.grad
+
     fg = feature_gradients.detach().cpu().numpy().squeeze()
     fg = np.transpose(fg, (1, 2, 0))  # (height, width, channel)
 
